@@ -58,7 +58,6 @@ La logica applicativa è implementata tramite:
 * **pg** per la connessione al database
 * **JWT (JSON Web Token)** per la gestione dell'autenticazione
 * **Argon2** per l'hashing sicuro delle password
-* **Nodemailer** per l'invio di email
 * **XLSX** per la gestione di file Excel
 
 Il backend si trova nella cartella:
@@ -77,9 +76,7 @@ Finager-Progetto-LTW/
 ├── client/              # Applicazione frontend Vue
 │
 ├── server/              # Backend Node.js + Express
-│   ├── src/
-│   ├── .env.example
-│   └── package.json
+│   └── .env.example
 │
 └── pg.sql               # Script per la creazione del database PostgreSQL
 ```
