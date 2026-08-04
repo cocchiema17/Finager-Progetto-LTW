@@ -238,7 +238,3 @@ La struttura completa del database è definita nel file:
 ```
 pg.sql
 ```
-
----
-
-Università degli Studi di Roma "La Sapienza"
