@@ -29,7 +29,7 @@
               <br />
               <br />
               Lo Space &egrave; il conto dove inserire le tue transazioni. Crea i tuoi
-              personali Space per suddividere entrate e uscite in base alle tue
+              Space personali per suddividere entrate e uscite in base alle tue
               esigenze!
             </div>
           </div>
@@ -78,7 +78,7 @@
               <strong>Transazioni</strong>
               <br />
               <br />
-              Una transazioni rappresenta una entrata o un uscita all’interno di
+              Una transazione rappresenta una entrata o un uscita all’interno di
               uno Space. Nella tua home avrai accesso ad una tabella dove
               poterle visualizzare, ordinare, filtrare, modificare, cancellare
               ed esportare in formato excel!
@@ -100,7 +100,7 @@
               <br />
               <br />
               Ottieni una maggiore consapevolezza del tuo Space attraverso tre
-              splenditi grafici: renditi conto di quanto ammontano le tue
+              splenditi grafici: renditi conto a quanto ammontano le tue
               entrate e spese mensili, del valore del tuo conto e della
               suddivisione per categorie!
             </div>
